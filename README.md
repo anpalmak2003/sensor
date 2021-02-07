@@ -1,1 +1,1 @@
-# sonsor
+# sensor
